@@ -1,7 +1,8 @@
 ---
 title: CodingBlog：给程序员的私房极简博客系统
-date: 2017-09-01
+date: 2017-09-04
 tags: Markdown,文档
+categories: project
 description: 这是一篇介绍CodingBlog博客是如何实现的文章
 ---
 
@@ -109,7 +110,6 @@ description: 这是一篇介绍CodingBlog博客是如何实现的文章
 <meta name="keywords" content="Markdown,文档">
 <meta name="author" content="Nshen <nshen121@gmail.com>">
 ```
-
 
 然后 Sitemap 和 feed 也是少不了的。
 
